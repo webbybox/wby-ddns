@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	logger "github.com/webbybox/webbybox-logger"
+	logger "github.com/webbybox/wby-logger"
 )
 
 var configPath = "./ddns-config.json"
